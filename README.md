@@ -55,8 +55,7 @@ To improve your ad experience, Weather Wonders may use Google AdMob's ad persona
 
 ## Screenshots
 
-![Alt Text](https://user-images.githubusercontent.com/141550767/267183613-ee5091be-4d2d-4de5-855c-37aa7bd62581.jpg)
-![Alt Text](https://user-images.githubusercontent.com/141550767/267183628-58200c33-7d3b-48d7-a44b-83c6b55c59fb.jpg)
-![Alt Text](https://user-images.githubusercontent.com/141550767/267184407-1ec77fd2-873a-4597-bf6a-52614bcb2af5.jpg)
-![Alt Text](https://user-images.githubusercontent.com/141550767/267183624-f88aa05a-9be8-4cc0-bbc4-6cee18b0311d.jpg)
-![Alt Text](https://user-images.githubusercontent.com/141550767/267183618-0a721d80-c4f0-4677-a6d2-59f8f65f8ffa.jpg)
+![Screenshot_2023-09-12-13-40-39-71_phone](https://github.com/Subhanjana07/WeatherWonders/assets/141550767/3fc37a8a-05cb-43ef-9ba2-f9b10aee2ad4) ![Screenshot_2023-09-12-17-56-07-47_ae1cad8251de42a628694b56ee1c4592_phone](https://github.com/Subhanjana07/WeatherWonders/assets/141550767/6159b87a-f071-4956-9470-7115bce2ba2d)
+![Screenshot_2023-09-12-17-56-32-47_ae1cad8251de42a628694b56ee1c4592_phone](https://github.com/Subhanjana07/WeatherWonders/assets/141550767/92873b44-d320-4e19-b750-dc475455e44f)
+![Screenshot_2023-09-10-15-20-21-48_phone](https://github.com/Subhanjana07/WeatherWonders/assets/141550767/447c3f54-5d1b-4888-a91e-b1b906fcc474)
+![Screenshot_2023-09-11-13-50-55-00_phone](https://github.com/Subhanjana07/WeatherWonders/assets/141550767/156ff850-f6ec-4afc-a1a1-c029b60d3814)
