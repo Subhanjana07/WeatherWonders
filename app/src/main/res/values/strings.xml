@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cloud Nine</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">Current Weather and Time</string>
+    <string name="app_id">ca-app-pub-3076819398758757~5982135240</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3076819398758757/2920857635</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3076819398758757/1287663020</string>
+</resources>
