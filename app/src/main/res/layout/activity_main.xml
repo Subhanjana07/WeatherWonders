@@ -458,7 +458,7 @@
                         android:layout_marginBottom="8dp"
                         android:layout_weight="1"
                         android:gravity="end"
-                        android:text="Next 6 Days >>"
+                        android:text="Next 2 Days >>"
                         android:textColor="@color/white"
                         android:textSize="18sp"
                         android:textStyle="bold" />

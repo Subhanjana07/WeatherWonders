@@ -41,7 +41,7 @@ public class WeatherManager {
 
     public void getWeatherInfo(String cityName) {
         Log.e("CityName", "" + cityName);
-        String url = "http://api.weatherapi.com/v1/forecast.json?key=8a0b12c806ac4173852163428230409&q=" + cityName + "&days=1&aqi=no&alerts=no";
+        String url = "https://api.weatherapi.com/v1/forecast.json?key=8a0b12c806ac4173852163428230409&q=" + cityName + "&days=1&aqi=no&alerts=no";
         mainActivity.getTextViewCityName().setText(cityName);
 
         RequestQueue requestQueue = Volley.newRequestQueue(mainActivity);
