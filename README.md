@@ -19,9 +19,9 @@ Weather Wonders is a feature-rich weather app that provides you with accurate an
 - Plan your day effectively with detailed hourly weather forecasts.
 - Access information on temperature fluctuations, precipitation chances, and wind speed throughout the day.
 
-### 7-Days Hourly Weather Forecast
+### 3-Days Hourly Weather Forecast
 
-- Stay prepared for the upcoming week with a 6-day weather forecast.
+- Stay prepared for the upcoming weather with a 3-day weather forecast.
 - Get day-by-day weather forecasts to make informed decisions about your activities and plans.
 
 ### Swipe to Reload
