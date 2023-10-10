@@ -100,7 +100,6 @@ public class NewAppWidget extends AppWidgetProvider {
     static void updateAppWidget(Context context, AppWidgetManager appWidgetManager,
                                 int widgetIds) {
 
-        CharSequence widgetText = context.getString(R.string.appwidget_text);
         //Log.e("Latitude",""+latitude);
         String url = "http://api.weatherapi.com/v1/forecast.json?key=8a0b12c806ac4173852163428230409&q=" + latitude+","+longitude+ "&days=1&aqi=no&alerts=no";
 

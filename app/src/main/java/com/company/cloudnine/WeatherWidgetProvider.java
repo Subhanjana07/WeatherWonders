@@ -15,16 +15,12 @@ public class WeatherWidgetProvider extends AppWidgetProvider {
     }
 
     private void updateWidget(Context context, AppWidgetManager appWidgetManager, int appWidgetId) {
-        // Perform your API request and data retrieval here.
-        String weatherData = fetchDataFromApi();
 
-        // Initialize a RemoteViews object and update the widget components.
+        String weatherData = fetchDataFromApi();
 
         RemoteViews views = new RemoteViews(context.getPackageName(), R.layout.widget_layout);
         views.setTextViewText(R.id.textViewWeather, "Current Weather: " + weatherData);
-        // You can update other components (e.g., images) in a similar way.
 
-        // Update the widget layout with the modified RemoteViews.
         appWidgetManager.updateAppWidget(appWidgetId, views);
     }
 
