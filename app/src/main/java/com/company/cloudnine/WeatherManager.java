@@ -4,7 +4,6 @@ import android.graphics.drawable.Drawable;
 import android.text.TextUtils;
 import android.util.Log;
 import android.widget.Toast;
-
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
@@ -89,7 +88,6 @@ public class WeatherManager {
                                 // To remove leading zero from date
                                 formattedDate = formattedDate.replaceFirst("^0+(?!$)", "");
 
-                                // To add "st," "nd," "rd," or "th" to the date
                                 String[] parts = formattedDate.split(" ");
                                 if (parts.length >= 1) {
                                     String day = parts[0];
@@ -99,7 +97,6 @@ public class WeatherManager {
                                     formattedDate = TextUtils.join(" ", parts);
                                 }
 
-                                // Capitalize the first letter of the month
                                 if (parts.length >= 3) {
                                     String month = parts[1];
                                     String capitalizedMonth = month.substring(0, 1).toUpperCase() + month.substring(1).toLowerCase();
